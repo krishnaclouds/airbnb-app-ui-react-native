@@ -23,7 +23,7 @@
     "expo": "^49.0.0",
     "native-base": "^3.0.0",
     "react": "16.4.2",
-    "react-native": "~0.62.0",
+    "react-native": "~0.65.0",
     "react-navigation": "^2.11.2"
   }
 }
